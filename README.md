@@ -1,4 +1,4 @@
-# Arrythmia-detection-LSTM-CNN
+# Arrhythmia-detection-LSTM-CNN
 
 The goal of the project is to detect abnormal heartbeat patterns. Extracting heartbeats have become a feature of smart watches and exploring this data better could give use potential insights to overall health.
 
